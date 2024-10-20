@@ -1,7 +1,9 @@
-package geometry2d.java;
+package geometry2d;
 
 public interface Figure {
+
     double area();
     double perimeter();
     String toString();
+
 }
